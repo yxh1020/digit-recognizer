@@ -1,1 +1,1 @@
-# DS-project
+# Digit recognizer using CNN
