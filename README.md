@@ -1,1 +1,1 @@
-# Digit recognizer using CNN
+# Digit Recognizer using CNN
